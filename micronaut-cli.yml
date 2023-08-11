@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.kodwa
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [amazon-api-gateway-http, amazon-cognito, app-name, awaitility, aws-cdk, aws-codebuild-workflow-ci, aws-lambda, aws-lambda-custom-runtime, aws-lambda-events-serde, aws-lambda-handler-apigateway-v2, aws-lambda-handler-default, aws-parameter-store, aws-v2-sdk, cache-caffeine, control-panel, dynamodb, email-amazon-ses, email-javamail, flyway, github-workflow-ci, github-workflow-graal-docker-registry, graalvm, gradle, graphql, http-client, jib, jmx, junit, kafka, kotlin, ksp, kubernetes, localstack, log4j2, management, micronaut-aot, micronaut-build, object-storage-aws, object-storage-local, openapi, properties, readme, rxjava3-http-client, security-annotations, security-jwt, security-oauth2, serialization-jackson, shade, testcontainers, tracing-opentelemetry-annotations, tracing-opentelemetry-exporter-otlp, tracing-opentelemetry-http, tracing-opentelemetry-xray, validation, x86]
