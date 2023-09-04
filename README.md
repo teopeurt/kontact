@@ -6,6 +6,9 @@
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
+## Document
+(https://micronaut.io/2022/11/23/aws-lambda-with-the-micronaut-framework/)
+
 ## Handler
 
 Handler: io.micronaut.function.aws.proxy.payload1.ApiGatewayProxyRequestEventFunction
